@@ -17,9 +17,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/manoj-kumar-sial-bb031b229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manoj-kumar-sial-bb031b229" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/manifest_21" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/CODECHEF_Logo_250x250.png" 
+<a href="https://www.codechef.com/users/manifest_21" target="_blank">
+    <img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg" 
          alt="CodeChef Profile" 
-         height="30" 
+         height="40" 
          width="40" 
          style="vertical-align: middle;">
 </a>
