@@ -16,7 +16,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/manoj-kumar-sial-bb031b229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manoj-kumar-sial-bb031b229" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/manifest_21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manifest_21" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/manifest_21" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/CODECHEF_Logo_250x250.png" 
+         alt="CodeChef Profile" 
+         height="30" 
+         width="40" 
+         style="vertical-align: middle;">
+</a>
+
 <a href="https://www.leetcode.com/lets_begin_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lets_begin_21" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/manoj_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="manoj_21" height="30" width="40" /></a>
 </p>
