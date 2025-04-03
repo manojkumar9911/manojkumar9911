@@ -17,6 +17,6 @@ I enjoy *solving complex problems, optimizing system performance, and exploring 
 📩 *Email:* manojkumarsial2002@gmail.com
 📱 *Phone:* +91 8117928321
 🔗 *LinkedIn:* [linkedin.com/in/manoj-kumar-sial]([https://linkedin.com/in/xxxxxxx](https://www.linkedin.com/in/manoj-kumar-sial/))  
-🐙 *GitHub:* [github.com/manoj-kumar-sial]([https://github.com/manoj kumar sial](https://github.com/manojkumar9911))  
+🐙 *GitHub:* [github.com/manoj-kumar-sial]([https://github.com/manoj-kumar-sial](https://github.com/manojkumar9911))  
 
 💬 *Let's collaborate and build something awesome!* 🚀  
